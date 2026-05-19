@@ -1,0 +1,34 @@
+sector,year,forecast_revenue
+Consumer Discretionary,2017,864439392200.0
+Consumer Discretionary,2018,825503502000.0
+Consumer Discretionary,2019,786567611800.0
+Consumer Staples,2017,1376476295000.0
+Consumer Staples,2018,1488993117600.0
+Consumer Staples,2019,1601509940200.0
+Energy,2017,56119430100.0
+Energy,2018,0.0
+Energy,2019,0.0
+Financials,2017,185573148600.0
+Financials,2018,0.0
+Financials,2019,0.0
+Health Care,2017,932923594800.0
+Health Care,2018,968252841000.0
+Health Care,2019,1003582087200.0
+Industrials,2017,604102467900.0
+Industrials,2018,571911825800.0
+Industrials,2019,539721183700.0
+Information Technology,2017,934643253400.0
+Information Technology,2018,1021851172600.0
+Information Technology,2019,1109059091800.0
+Materials,2017,119482253700.0
+Materials,2018,88960719600.0
+Materials,2019,58439185500.0
+Real Estate,2016,84140497500.0
+Real Estate,2017,93035754500.0
+Real Estate,2018,101931011500.0
+Telecommunications Services,2016,318613073500.0
+Telecommunications Services,2017,330936417600.0
+Telecommunications Services,2018,343259761700.0
+Utilities,2016,283303119500.0
+Utilities,2017,299622070200.0
+Utilities,2018,315941020900.0
